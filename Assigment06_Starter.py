@@ -187,3 +187,6 @@ while (True):
     elif choice_str == '4':  # Exit Program
         print("Goodbye!")
         break  # by exiting loop
+
+    else:
+        print("Error: Invalid Entry")
