@@ -1,0 +1,4 @@
+clean house,med
+wash glasses,med
+do homework,high
+clean garage,med
